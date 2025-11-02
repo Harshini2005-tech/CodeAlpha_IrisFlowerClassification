@@ -47,6 +47,6 @@ This project demonstrates basic data science and machine learning workflow for c
 It covers data preprocessing, visualization, model training, evaluation, and saving results — fulfilling the **Task 1** requirement for the CodeAlpha internship.
 
 ---
->> Developed by:** [Harshini]  
-**Internship Domain:** Data Science  
-**Organization:** CodeAlpha  
+>> Developed by: [Harshini]  
+**Internship Domain: Data Science  
+**Organization: CodeAlpha  
