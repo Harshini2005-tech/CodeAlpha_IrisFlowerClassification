@@ -5,7 +5,7 @@ This project is part of the **CodeAlpha Data Science Internship** program.
 >> Project Overview
 The goal of this project is to classify iris flowers into their respective species — *Setosa*, *Versicolor*, or *Virginica* — based on the given flower measurements (sepal length, sepal width, petal length, and petal width).
 
->> Dataset
+>> Dataset.
 The dataset used is the **Iris Dataset**, which contains 150 samples of iris flowers.  
 It was provided by CodeAlpha and can also be found on [Kaggle](https://www.kaggle.com/datasets/saurabh00007/iriscsv).
 
